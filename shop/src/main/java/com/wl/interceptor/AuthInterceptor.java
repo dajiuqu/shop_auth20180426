@@ -52,7 +52,7 @@ public class AuthInterceptor implements HandlerInterceptor {
 		// TODO Auto-generated method stub
 		// System.out.println(request.getSession().getServletContext().getRealPath("config/auth.json"));
 
-		// System.out.println(new PathTest().getClassesPath() + "kk");
+		 System.out.println(new PathTest().getClassesPath() + "kk11");
 		// System.out.println("auth:" + request.getRequestURI());
 		// return true;
 		// System.out.println("getRequestURI:" + request.getRequestURI());
